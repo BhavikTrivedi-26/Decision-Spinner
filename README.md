@@ -28,9 +28,6 @@ decision-spinner/
 │── script.js # wheel logic
 │── README.md # documentation
 
-yaml
-Copy code
-
 ---
 
 ## 📸 Demo Preview
