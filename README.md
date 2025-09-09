@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://bhaviktrivedi-26.github.io/Decision-Spinner/)
+
 # 🎡 Decision Spinner
 
 A fun and interactive web app that helps you make decisions by spinning a colorful wheel!  
