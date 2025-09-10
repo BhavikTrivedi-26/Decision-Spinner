@@ -40,7 +40,7 @@ decision-spinner/
 ## ▶️ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/decision-spinner.git
+   git clone https://github.com/BhavikTrivedi-26/decision-spinner.git
 Open the project folder:
 
 bash
